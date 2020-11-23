@@ -69,6 +69,14 @@ class ViewController: UIViewController {
         scView.contentSize = CGSize(width: xOffset, height: scView.frame.height)
         
         print("nech changes required")
+        print("nech changes required")
+        print("nech changes required")
+        print("nech changes required")
+        print("nech changes required")
+        print("nech changes required")
+        print("nech changes required")
+        print("nech changes required")
+        
     }
     func configUI(){
         cubNavigationBar()
